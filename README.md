@@ -1,54 +1,65 @@
-<header>
+# Professional Profile
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to my professional profile repository! This repository outlines my experience and projects related to the automotive industry, digital content creation, and e-commerce optimization. With a strong background in automotive repair, cataloging used auto parts, and content creation, I bridge the gap between traditional craftsmanship and cutting-edge digital solutions. I am currently exploring opportunities in software development, IT, and cloud technologies.
 
-# GitHub Pages
+## 🚗 Professional Experience
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+### VTD Auto Parts | Automotive Technician & Cataloger
+**2021 – 2022**
 
-</header>
+- Cataloged over **1,500 used auto parts**, including cleaning, photographing, and documenting each item.
+- Used web scraping to gather detailed data and created optimized **HTML descriptions** for parts listings.
+- Contributed to **eBay sales growth** by creating detailed and attractive product listings.
+- Managed inventory, improving stock accuracy and speeding up order fulfillment.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+### Twenty Third Garage | Content Creator & Automotive Specialist
+**Dec 2021 – Nov 2023**
 
-## Step 1: Enable GitHub Pages
+- Produced over **250 automotive videos**, building the YouTube channel to **55.9K subscribers** and **8.89M views**.
+- Developed content strategies to increase engagement and grew a loyal following of automotive enthusiasts.
+- Created high-quality videos showcasing automotive repairs, rebuilds, and tips, collaborating with brands for sponsored content.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+### TikTok Marketing Consultant | Hunan Wok
+**2022 – 2023**
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+- Created and managed TikTok campaigns, achieving **43,575 followers** and a **9.97% engagement rate**.
+- Produced viral videos that increased brand visibility and customer engagement.
 
-### :keyboard: Activity: Enable GitHub Pages
+## 🛠️ Key Skills
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+- **Automotive Repair**: Over three years of experience in vehicle diagnostics, maintenance, and collision repair.
+- **Content Creation & Marketing**: Expertise in creating video content for YouTube and TikTok.
+- **E-Commerce Optimization**: Managed product listings and optimized sales strategies on eBay, driving over **300 parts sales** in a single quarter.
+- **Web Scraping & HTML**: Experience in creating detailed product listings using web scraping techniques.
+- **Software Development**: Currently pursuing certifications in system administration, networking, and cloud technologies.
 
-<footer>
+## 💻 Projects
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### E-commerce & Auto Parts Cataloging System
+A dynamic catalog for used auto parts that integrates inventory management and e-commerce functionality, optimized for selling used automotive parts with a streamlined workflow.
+
+### Twenty Third Garage YouTube Channel
+A content-rich channel featuring automotive repairs, rebuilds, and maintenance tips. The channel's growth highlights my ability to connect with an audience through engaging, informative content.
+
+### Hunan Wok TikTok Marketing Campaign
+A case study of how creative TikTok campaigns can grow brand awareness and customer engagement.
+
+## 🎓 Education & Certifications
+
+- **Active pursuit of certifications** in **Networking**, **Cloud Technologies**, and **System Administration**.
+- Advanced coursework in **Software Development** with a focus on business applications.
+
+## 🌍 Languages
+
+- Fluent in **English** and **Ukrainian**.
+
+## 🚀 Future Goals
+
+- Transition into roles focused on **system administration**, **networking**, and **cloud solutions**.
+- Build scalable e-commerce and IT solutions to transform the automotive and retail industries.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Feel free to check out my projects and feel free to connect for any collaborations or opportunities.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+🔗 [LinkedIn Profile](your-linkedin-url) | [Portfolio](your-portfolio-url)
